@@ -8,7 +8,7 @@ base para meu futuro portfólio profissional na área de Tecnologia da Informaç
 
 ## Atividades e conteúdos da disciplina
 
-### 1. Projeto Study Hub — Etapa Inicial
+### Projeto Study Hub — Etapa Inicial
 
 - Planejamento da identidade profissional na área de Tecnologia da Informação.
 - Elaboração de uma biografia acadêmica e apresentação dos interesses profissionais.
@@ -18,7 +18,7 @@ base para meu futuro portfólio profissional na área de Tecnologia da Informaç
 - Elaboração de uma matriz para organizar as disciplinas e os materiais de estudo.
 - Preparação de uma apresentação em vídeo sobre a proposta do projeto.
 
-### 2. Criação de Repositório com Versionamento — Etapa Intermediária
+### Criação de Repositório com Versionamento — Etapa Intermediária
 
 - Planejamento e organização dos repositórios acadêmicos e pessoais.
 - Introdução ao versionamento de código utilizando Git.
